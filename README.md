@@ -1,0 +1,1 @@
+# Hangman Challenge: the purpose of this repository is to get closer to my goal. (:
